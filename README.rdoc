@@ -1,3 +1,5 @@
-Link to heroku app: limitless-stream-7959.herokuapp.com/
+Link to heroku app: http://fast-lake-5173.herokuapp.com/
 
 Problems/Comments: Added an HTML file with what is needed for the homework.  I made a form that has inputs for text, radio buttons and check boxs.  Also included links, buttons, images to see if people are my friend. Rails hates me.
+
+Used Jenny's computer for adding to git and heroku.  Was having problems keeping and installing rails.  Will figure that out later. 
